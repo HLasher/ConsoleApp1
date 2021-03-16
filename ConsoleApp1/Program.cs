@@ -8,7 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
 
-            // Change1 made using VS.
+            // Change2 made using VS.
         }
     }
 }
